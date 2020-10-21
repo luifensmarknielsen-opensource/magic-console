@@ -15,9 +15,9 @@ var magicConsole = {
     }
 }
 
-magicConsole.error("This is a error message");
-magicConsole.warning("This is a warning message");
-magicConsole.success("This is a success message");
-magicConsole.magenta("This is a magenta colored message");
+// magicConsole.error("This is a error message");
+// magicConsole.warning("This is a warning message");
+// magicConsole.success("This is a success message");
+// magicConsole.magenta("This is a magenta colored message");
 
 export default magicConsole;
