@@ -1,7 +1,7 @@
 # How to use this console messages
 
 * OPEN YOUR BROWSER
-* RIGTH CLICK
+* RIGHT CLICK
 * INSPECT ELEMENT
 * GO TO CONSOLE
 * WELL DONE
