@@ -20,4 +20,4 @@ var magicConsole = {
 // magicConsole.success("This is a success message");
 // magicConsole.magenta("This is a magenta colored message");
 
-export default magicConsole;
+//export default magicConsole;
